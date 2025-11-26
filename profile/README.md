@@ -1,6 +1,6 @@
 LAWDROID aims to reimagine the delivery of law through technology that serves everyone. Our mission is to promote justice everywhere.
 
-Join LAWDROID University to learn more about prompt engineering, context engineering, RAG, and building AI Agents: [LAWDROID University](lawdroid.com/subscriptions/lawdroid-university)
+Join LAWDROID University to learn more about prompt engineering, context engineering, RAG, and building AI Agents: [LAWDROID University](https://lawdroid.com/subscriptions/lawdroid-university)
 
 Subscribe to our [YouTube](https://www.youtube.com/@lawdroidai).
 
